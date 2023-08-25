@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Location has to match the snapshot 1`] = `
+<div
+  className="mapouter"
+  data-testid="location"
+>
+  <div
+    className="gmap_canvas"
+  >
+    <iframe
+      frameBorder="0"
+      height="500"
+      id="gmap_canvas"
+      marginHeight="0"
+      marginWidth="0"
+      scrolling="no"
+      src="https://maps.google.com/maps?q=UNSW,Sydney,NSW&t=&z=11&ie=UTF8&iwloc=&output=embed"
+      width="100%"
+    />
+  </div>
+</div>
+`;

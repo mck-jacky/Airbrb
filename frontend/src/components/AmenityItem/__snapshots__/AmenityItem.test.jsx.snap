@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AmenityItem has to match the snapshot 1`] = `
+<React.Fragment>
+  <ForwardRef(Typography)
+    data-testid="amenity-item"
+  >
+    <Memo
+      sx={
+        Object {
+          "fontSize": 20,
+          "marginRight": "8px",
+          "position": "relative",
+          "top": 5,
+        }
+      }
+    />
+    <span
+      data-testid="amenity-item-title"
+    >
+      essentials
+    </span>
+  </ForwardRef(Typography)>
+</React.Fragment>
+`;

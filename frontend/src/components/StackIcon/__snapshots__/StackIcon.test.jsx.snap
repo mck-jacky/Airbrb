@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StackIcon has to match the snapshot 1`] = `
+<ForwardRef(Box)
+  data-testid="stackicon"
+  sx={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <span>
+    Element1
+  </span>
+  <ForwardRef(Box)
+    sx={
+      Object {
+        "fontSize": 14,
+        "left": 20,
+        "position": "absolute",
+        "top": 0,
+      }
+    }
+  >
+    <span>
+      Element2
+    </span>
+  </ForwardRef(Box)>
+</ForwardRef(Box)>
+`;
